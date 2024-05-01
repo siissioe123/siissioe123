@@ -1,6 +1,6 @@
 # About Me
 
-Hey there! 👋 I'm @siissioe123, a student deeply immersed in the world of computer science and engineering. While navigating through my academic journey, I've explored a plethora of programming languages, including Python, C, C++, and JavaScript. However, my heart beats strongest for compiled languages, and I'm currently on a quest to master Rust.
+Hey there! 👋 I'mè @siissioe123](https://github.com/siissioe123), a student deeply immersed in the world of computer science and engineering. While navigating through my academic journey, I've explored a plethora of programming languages, including Python, C, C++, and JavaScript. However, my heart beats strongest for compiled languages, and I'm currently learning Golang.
 
 ## My Goals
 
